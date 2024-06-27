@@ -8,6 +8,7 @@ public class Main {
         System.out.printf("Hello and welcome!");
         System.out.printf("Second commit");
         System.out.printf("Third commit");
+        System.out.printf("Forth commit");
 
 
     }
