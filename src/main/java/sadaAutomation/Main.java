@@ -13,6 +13,7 @@ public class Main {
          System.out.printf("fetch merge example commit");
         System.out.printf("fetch merge example commit 2");
         System.out.printf("git pull commit");
+        System.out.printf("First commit in user registration branch");
 
 
 
