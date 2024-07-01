@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="42be2f22-5c25-408d-8ee8-74e959253829" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sadaAutomation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sadaAutomation/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,12 +16,26 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Userregistration" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "MERGED",
+      "assignee": "sada-1991"
+    },
+    {
+      "assignee": "sada-1991"
+    }
+  ],
+  "lastFilter": {
+    "assignee": "sada-1991"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/sadaAutomation/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -37,7 +52,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Userregistration",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/December23/GitInstallationProject/src/main/java/sadaAutomation/Main.java",
     "settings.editor.selected.configurable": "vcs.Git"
@@ -91,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719653507853</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Firs commit to user registration">
+      <option name="closed" value="true" />
+      <created>1719844392879</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719844392879</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,19 +137,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -137,6 +148,7 @@
     <MESSAGE value="Second master commit" />
     <MESSAGE value="Third master commit" />
     <MESSAGE value="Merge conflict demo2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge conflict demo2" />
+    <MESSAGE value="Firs commit to user registration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Firs commit to user registration" />
   </component>
 </project>
